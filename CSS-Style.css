@@ -11,7 +11,7 @@ body {
   }
   
   .logo {
-    height: 50px; /* Adjust height as needed */
+    height: 50px; 
     
   }
   
@@ -122,9 +122,9 @@ body {
 
   .item img {
     width: 100%;
-    max-width: 300px; /* Adjust as needed */
+    max-width: 300px; 
     height: auto;
-    border-radius: 10px; /* Optional: Add border radius for image */
+    border-radius: 10px; 
   }
 
   .item p {
@@ -145,7 +145,7 @@ body {
   }
   
   .testimonial {
-    width: calc(30% - 20px); /* Adjust width as needed */
+    width: calc(30% - 20px); 
     background-color: lightseagreen;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
